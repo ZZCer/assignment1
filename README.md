@@ -102,11 +102,4 @@ Once your code can clear all tests, your autodiff module is almost ready to trai
 - autodiff_test.test_matmul_two_vars ... 2 pt
 
 - bonus (training logistic regession) ... 5 pt
-
-## Submitting your work
-
-Please submit your autodiff.tar.gz to Catalyst dropbox under [Assignment 1](https://catalyst.uw.edu/collectit/dropbox/arvindk/40126).
-```bash
-# compress
-tar czvf autodiff.tar.gz autodiff/
 ```
