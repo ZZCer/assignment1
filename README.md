@@ -1,4 +1,4 @@
-# Assignment 1: Reverse-mode Automatic Differentiation
+# Reverse-mode Automatic Differentiation
 
 In this assignment, we would implement reverse-mode auto-diff.
 
